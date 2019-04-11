@@ -76,6 +76,9 @@ class Signin extends React.Component {
                         </div>
                     </div>
                 </main>
+                <div className="pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100">
+                    <p>Made by Austin Moninger.</p>
+                </div>
             </article>
         );
     }
