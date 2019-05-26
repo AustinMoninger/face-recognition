@@ -13,9 +13,11 @@ for the backend [here](https://github.com/AustinMoninger/face-recognition-backen
 
 ## What I Learned
 
-* Practice using React components and props
-* Using node package manager
-* Keeping track of state in a web app
+How to...
+
+* use React components and props
+* use node package manager
+* keep track of state in a web app
 
 ## Available Scripts
 
