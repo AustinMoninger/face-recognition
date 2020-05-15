@@ -7,6 +7,8 @@ import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
+import Intercom from 'react-intercom';
+
 
 import './App.css';
 
@@ -144,6 +146,7 @@ class App extends Component {
               : <Register onRouteChange={this.onRouteChange} loadUser={this.loadUser} />
             )
         }
+        <Intercom appID="y2s3234f"  />
     </div>
   );
   }

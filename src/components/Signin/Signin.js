@@ -79,7 +79,7 @@ class Signin extends React.Component {
                     </main>
                 </article>
                 <div className="pa2  bg-transparent  w-100">
-                    <p>Made by Austin Moninger.</p>
+                    <p>Made by Austin Moninger. ❣️</p>
                 </div>
             </div>
         );
